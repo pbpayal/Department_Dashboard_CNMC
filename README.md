@@ -1,1 +1,1 @@
-This is project where I created dasboards and metrics for the Bioinformatics Core at Children's National, to track the number of projects per year per department and other metrics like grants, publications for each porject. I created this dashboard using R.
+In this project, I created dasboards and metrics for the Bioinformatics Core at Children's National, to track the number of projects per year per department and other metrics like grants, publications for each porject. I created this dashboard using R.
