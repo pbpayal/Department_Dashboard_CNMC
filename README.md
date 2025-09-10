@@ -1,0 +1,1 @@
+This is project where I created dasboards and metrics for the Bioinformatics Core at Children's National, to track the number of projects per year and other metrics. I created this dashboard using R.
